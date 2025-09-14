@@ -1,1 +1,2 @@
-# this is my first repository
+# 1st-repo
+this is my first repository auther - subham mohanty
